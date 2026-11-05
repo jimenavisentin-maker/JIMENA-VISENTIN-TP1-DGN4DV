@@ -1,0 +1,26 @@
+.temporadas { 
+    display: flex;
+    margin: 50px 0px;
+}
+
+.temporadas img {
+    width: 15%;
+    border-radius: 8px;
+    transition: transform 0.5s ease;
+}
+
+.temporadasImg:hover {
+    transform: translateY(-5px);
+}
+
+.textoTemporadas {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.temp13 h2{
+    color: #f30000;
+    text-align: center;
+    padding: 10px;
+}
+

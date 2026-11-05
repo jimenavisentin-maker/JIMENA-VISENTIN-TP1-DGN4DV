@@ -1,0 +1,22 @@
+.actores {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 80px 100px;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.Reparto {
+    text-align: center
+
+}
+
+.Personajes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}

@@ -18,12 +18,18 @@ p {
   font-style: normal;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/* h1, h2, h3, h4, h5, h6 {
   font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-style: normal;
-}
+} */
 
+h1, h2, h3, h4, h5, h6  {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
 
 header {
     display:flex;
@@ -66,7 +72,7 @@ main {
     padding: 0 20px;
 }
 
-.hero {
+/* .hero {
     margin-bottom: 65px;
     position: relative;
     overflow: hidden;
@@ -106,7 +112,7 @@ main {
 .playlist { 
     margin-top: 35px;
 
-}
+} */
 
 footer {
     text-align: center;
@@ -136,7 +142,7 @@ footer {
     padding: 10px;
 } */
 
-.textoContacto{
+/* .textoContacto{
     padding-top: 10%;
     padding-left: 15%;
     padding-right: 15%;
@@ -189,7 +195,7 @@ footer {
     color: rgb(131, 0, 0);
     text-decoration:underline;
     font-weight: bold;
-}
+} */
 
 /* .actores {
     display: grid;
@@ -214,7 +220,7 @@ footer {
     width: 100%;
 } */
 
-.imgContenedor {
+/* .imgContenedor {
     width: 200px;
     height: 350px;
     overflow: hidden;
@@ -246,4 +252,4 @@ footer {
     max-width: 240px;
     line-height: 1.4;
     margin: 0 auto;
-}
+} */

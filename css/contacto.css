@@ -1,0 +1,54 @@
+.textoContacto{
+    padding-top: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    color: black;
+    font-weight:bolder;
+    width: 100%;
+    font-size:large;
+}
+
+.textoContacto2{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    color: black;
+    font-weight:bolder;
+    width: 100%;
+    font-size:large;
+}
+
+.imgContacto {
+    background: url(../img/contacto.webp) center/cover no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+.enlases {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 40%;
+    font-size:x-large;
+}
+
+.textoIg {
+    color: rgb(131, 0, 0);
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+.textoFx {
+    color: rgb(131, 0, 0);
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+.textoDisney {
+    color: rgb(131, 0, 0);
+    text-decoration:underline;
+    font-weight: bold;
+}

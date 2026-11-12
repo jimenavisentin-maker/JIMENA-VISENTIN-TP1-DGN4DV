@@ -1,5 +1,5 @@
 .textoContacto{
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 15%;
     padding-right: 15%;
     text-align: center;
@@ -40,18 +40,21 @@
     color: rgb(131, 0, 0);
     text-decoration:underline;
     font-weight: bold;
+    padding-top: 3%;
 }
 
 .textoFx {
     color: rgb(131, 0, 0);
     text-decoration:underline;
     font-weight: bold;
+    padding-top: 3%;
 }
 
 .textoDisney {
     color: rgb(131, 0, 0);
     text-decoration:underline;
     font-weight: bold;
+    padding-top: 3%;
 }
 
 .contacto {
@@ -62,7 +65,7 @@
 }
 
 .contacto h1 {
-    color: #a83232;
+    color: rgb(131, 0, 0);
     text-align: center;
     font-size: 32px;
 }
@@ -86,7 +89,7 @@
 .contacto select,
 .contacto textarea {
     padding: 12px;
-    background: #222;
+    background: rgba(0, 0, 0, 0.45);
     border: 1px solid #555;
     color: white;
     font-size: 14px;
@@ -94,12 +97,12 @@
 
 .contacto button {
     padding: 12px;
-    background: #a83232;
+    background: rgb(131, 0, 0);
     color: white;
     border: none;
     cursor: pointer;
 }
 
 .contacto button:hover {
-    background: #7d2020;
+    background: rgb(131, 0, 0);
 }
